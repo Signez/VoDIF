@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>projecteur.png</file>
+    </qresource>
+</RCC>
